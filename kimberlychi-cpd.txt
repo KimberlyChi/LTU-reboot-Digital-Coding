@@ -1,3 +1,17 @@
 kimberly is giving an example
 kimberly is giving an example 
 kimberly is giving an example
+Module / Session - date
+ 
+
+1.1. - 13/10/2020
+ 
+
+Reflection
+ 
+
+// Your reflection goes here
+ 
+
+In today session we were introduced to Git/ Git hub, shown a quick demo on the advantages of using Vs code. We have done an introductory demonstration of how to commit changes in files to a repo that we cloned unto our machine. 
+ 
